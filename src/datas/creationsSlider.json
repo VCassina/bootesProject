@@ -1,6 +1,6 @@
 [
   {
-    "webSiteScreen": "./jsonPicture/BankArgent.webp",
+    "webSiteScreen": "BankArgent.webp",
     "altScreen": "Capture de la page d'accueil du projet bankArgent",
     "title": "Bank Argent",
     "description": "<p>Ce site a été <b>sécurisé</b> - avec un lecteur d'empreinte digitale ? Et non, via la gestion de l'authentification sous <b>Redux</b> !</p><p>C'est également un insubmesible résistant aux terribles <b>injections SQL</b> en tout genre.</p>",
